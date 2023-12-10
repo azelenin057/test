@@ -1,0 +1,9 @@
+.todoList__item {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.todoList__button {
+  height: 20px;
+}
